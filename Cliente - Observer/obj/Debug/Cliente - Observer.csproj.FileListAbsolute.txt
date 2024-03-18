@@ -1,0 +1,14 @@
+C:\Users\b-j-e\source\repos\34-CS-Api-Observer-Microscopio\Cliente - Observer\bin\Debug\Cliente - Observer.exe.config
+C:\Users\b-j-e\source\repos\34-CS-Api-Observer-Microscopio\Cliente - Observer\bin\Debug\Cliente - Observer.exe
+C:\Users\b-j-e\source\repos\34-CS-Api-Observer-Microscopio\Cliente - Observer\bin\Debug\Cliente - Observer.pdb
+C:\Users\b-j-e\source\repos\34-CS-Api-Observer-Microscopio\Cliente - Observer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\b-j-e\source\repos\34-CS-Api-Observer-Microscopio\Cliente - Observer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\b-j-e\source\repos\34-CS-Api-Observer-Microscopio\Cliente - Observer\obj\Debug\Cliente - Observer.csproj.AssemblyReference.cache
+C:\Users\b-j-e\source\repos\34-CS-Api-Observer-Microscopio\Cliente - Observer\obj\Debug\Cliente - Observer.csproj.SuggestedBindingRedirects.cache
+C:\Users\b-j-e\source\repos\34-CS-Api-Observer-Microscopio\Cliente - Observer\obj\Debug\Cliente___Observer.Form1.resources
+C:\Users\b-j-e\source\repos\34-CS-Api-Observer-Microscopio\Cliente - Observer\obj\Debug\Cliente___Observer.Properties.Resources.resources
+C:\Users\b-j-e\source\repos\34-CS-Api-Observer-Microscopio\Cliente - Observer\obj\Debug\Cliente - Observer.csproj.GenerateResource.cache
+C:\Users\b-j-e\source\repos\34-CS-Api-Observer-Microscopio\Cliente - Observer\obj\Debug\Cliente - Observer.csproj.CoreCompileInputs.cache
+C:\Users\b-j-e\source\repos\34-CS-Api-Observer-Microscopio\Cliente - Observer\obj\Debug\Cliente - Observer.csproj.CopyComplete
+C:\Users\b-j-e\source\repos\34-CS-Api-Observer-Microscopio\Cliente - Observer\obj\Debug\Cliente - Observer.exe
+C:\Users\b-j-e\source\repos\34-CS-Api-Observer-Microscopio\Cliente - Observer\obj\Debug\Cliente - Observer.pdb
